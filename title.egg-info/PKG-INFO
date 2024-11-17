@@ -1,0 +1,30 @@
+Metadata-Version: 2.1
+Name: title
+Version: 1.0.0
+Summary: A simple Python library to change the terminal window title
+Home-page: https://github.com/SupremeXD4925
+Author: SupremeXD
+Author-email: neon321ontg@gmail.com
+License: MIT
+Classifier: Programming Language :: Python :: 3
+Classifier: License :: OSI Approved :: MIT License
+Classifier: Operating System :: OS Independent
+Requires-Python: >=3.6
+Description-Content-Type: text/markdown
+License-File: LICENSE
+
+### HOW TO USE title.py ### 
+
+1) pip install title (If i put on pip pakage)
+2) Minimum py 3.6 
+3) Create a basic file: 
+
+```py
+
+import title
+
+# Put your title 
+title("Hello, World!") 
+```
+
+4) Run & Done ! 
