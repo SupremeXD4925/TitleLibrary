@@ -26,4 +26,4 @@ jobs:
 
       - name: Exécuter ton script Python
         run: |
-          python title.py.py  # Remplace par le nom de ton script Python ou la commande que tu veux exécuter
+          python title.py  # Remplace par le nom de ton script Python ou la commande que tu veux exécuter
